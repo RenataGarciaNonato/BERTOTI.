@@ -9,7 +9,7 @@ Ingressante 2020-2, apaixonada por tecnologias, e por aprender coisas novas.
 A faculdade me trouxe além de conhecimentos academicos, conhecimentos pessoais, e ajudou aprimorar minhas Soft Skills.
 O API colaborou para o desenvolvimento das minhas Hard Skills.
 
-# **Projetos que participei**
+# **Projeto que participei**
 
 ## **Projeto API -2020-2**
 **Proposta:** Desenvover uma aplicação para motorista de Vans escolares.
