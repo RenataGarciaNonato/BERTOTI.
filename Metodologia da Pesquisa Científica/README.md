@@ -98,8 +98,11 @@ Otmizar e planejar a melhor Rota.
 ## Minhas contribuições 
 
 Desenvolvi uma arquitetura de acesso a dados via API.
-Como aprendi e  utilizei uma API para o cálculo da rota , isso foi valido para saber aplicar outra APIs em outros projetos,
+Como aprendi e  utilizei uma API para o cálculo da rota, essa API consegui no site OpenRouterService isso foi valido para saber aplicar outra APIs em outros projetos,
 pois as APIs tem uma forma uniforme de acesso.
+
+![image](https://user-images.githubusercontent.com/80370151/171467676-9f92191c-0fd3-4bda-8f35-44ad6464f11b.png)
+
 
 <img width="955" alt="111" src="https://user-images.githubusercontent.com/80370151/171465565-d20039ed-b9cd-4f32-bfe9-e1485529f321.png">
 
