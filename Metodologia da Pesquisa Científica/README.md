@@ -110,7 +110,14 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 ![banco-firebase](https://user-images.githubusercontent.com/80370151/170394052-5153aff0-fa6e-430f-a026-9d2668979a53.png)
 
-Conclusão:
+
+## Minhas Dificuldades
+
+A maior dificuldade foi na aplicação do api, e na montagem do blocos para calcular a rota,
+
+isso foi superado atravez de horas de pesquisas e estudos.
+
+## Conclusão
 * Nesse api desenvolvi meu raciocinio logico.
 
 * Aprendi a logica de programação.
@@ -121,8 +128,4 @@ Conclusão:
 
 * Aprendi Modelagem de dados não relacionais.
 
-## Minhas Dificuldades
 
-A maior dificuldade foi na aplicação do api, e na montagem do blocos para calcular a rota,
-
-isso foi superado atravez de horas de pesquisas e estudos.
