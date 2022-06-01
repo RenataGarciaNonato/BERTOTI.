@@ -120,3 +120,9 @@ Conclusão:
 * Aprendi Aplicação de APis.
 
 * Aprendi Modelagem de dados não relacionais.
+
+## Minhas Dificuldades
+
+A maior dificuldade foi na aplicação do api, e na montagem do blocos para calcular a rota,
+
+isso foi superado atravez de horas de pesquisas e estudos.
