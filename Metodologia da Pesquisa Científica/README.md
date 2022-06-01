@@ -12,10 +12,10 @@ O API colaborou para o desenvolvimento das minhas Hard Skills.
 # **Projeto que participei**
 
 ## **Projeto API -2020-2**
-**Proposta:** Desenvover uma aplicação para motorista de Vans escolares.
+**Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
 
 #### **Vazeiros do Vale**
-Grupo Vanteiros do Vale foi contituido por 8 integrantes
+Grupo Vanseiros do Vale foi constituido por 8 integrantes
 A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por Master alunos do 6 semestre
 da diciplina Banco de dados,
 e desnvolvedores alunos do 1 semestre de Banco de dados
@@ -78,6 +78,10 @@ Otmizar e planejar a melhor Rota.
 * Programação em blocos.
 
 * Noção de Banco de dados.
+
+* Aplicação de APis
+
+* Banco de Dados nosql
 
 
 
