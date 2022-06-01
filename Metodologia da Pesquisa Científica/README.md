@@ -101,6 +101,16 @@ Desenvolvi uma arquitetura de acesso a dados via API.
 Como aprendi e  utilizei uma API para o cálculo da rota , isso foi valido para saber aplicar outra APIs em outros projetos,
 pois as APIs tem uma forma uniforme de acesso.
 
+![image](https://user-images.githubusercontent.com/80370151/171459083-4b6184bc-e757-4e19-ae40-8df5ebe67712.png)
+
+
+![image](https://user-images.githubusercontent.com/80370151/171459189-b9c4f0b4-beb3-4181-9630-2fc2b2d53bb2.png)
+
+
+![image](https://user-images.githubusercontent.com/80370151/171459244-62adfc66-1eb4-41ab-a4a8-2f0f417ccfc6.png)
+
+
+
 
 Outra contribuição foi a Modelagem de Dados:
 
