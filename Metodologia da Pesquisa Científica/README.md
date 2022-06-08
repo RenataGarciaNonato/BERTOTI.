@@ -71,6 +71,35 @@ Otmizar e planejar a melhor Rota.
 
 * Scrum
 
+
+
+## Minhas contribuições 
+
+Desenvolvi uma arquitetura de acesso a dados via API.
+Utilizei uma API para o cálculo da rota, essa API foi adquirida atravez do site OpenRouterService, a aplicação dessa API foi valida como aprendizagem,  para saber aplicar outras APIs em outros projetos, pois as APIs tem uma forma uniforme de acesso.
+
+![image](https://user-images.githubusercontent.com/80370151/171467676-9f92191c-0fd3-4bda-8f35-44ad6464f11b.png)
+
+
+<img width="955" alt="111" src="https://user-images.githubusercontent.com/80370151/171465565-d20039ed-b9cd-4f32-bfe9-e1485529f321.png">
+
+
+Outra contribuição foi a Modelagem de Dados:
+
+
+Modelagem de Dados com diferente paradigmas de modelagem de banco de Dados.
+
+Normalmente usa-se banco de Dados relacionais SQL,
+mas como esse projeto foi diferente, um dos requisitos era a ultilização de um banco de dados NOSQL, o Banco de Dados  *Firebase* que é um  banco em Cloud, e em tempo real.
+
+E Como utilizei no projeto uma API para o cálculo da rota, e rota a fica mudando a todo instante, eu precisei usar um Banco em Cloud, 
+para disponibilidade em 100% do tempo, e também em tempo real, para que todas as vezes que a rota mudasse conseguisse atualizar em tempo real.
+
+
+
+![banco-firebase](https://user-images.githubusercontent.com/80370151/170394052-5153aff0-fa6e-430f-a026-9d2668979a53.png)
+
+
 **Hard Skill desenvolvidas:**
 
 * Logica de Programação.
@@ -95,36 +124,7 @@ Otmizar e planejar a melhor Rota.
 
 * Agilidade.
 
-## Minhas contribuições 
 
-Desenvolvi uma arquitetura de acesso a dados via API.
-Como aprendi e  utilizei uma API para o cálculo da rota, essa API consegui no site OpenRouterService isso foi valido para saber aplicar outra APIs em outros projetos,
-pois as APIs tem uma forma uniforme de acesso.
-
-![image](https://user-images.githubusercontent.com/80370151/171467676-9f92191c-0fd3-4bda-8f35-44ad6464f11b.png)
-
-
-<img width="955" alt="111" src="https://user-images.githubusercontent.com/80370151/171465565-d20039ed-b9cd-4f32-bfe9-e1485529f321.png">
-
-
-Outra contribuição foi a Modelagem de Dados:
-
-
-Modelagem de Dados, com diferente paradigmas de modelagem de banco de Dados normalmente usa-se banco de Dados relacionais SQL, 
-mas como esse projeto tinha requisitos de uso de banco de dados NOSQL  Firebase que é um  banco em Cloud , e em tempo real
-Como utilizei uma API para o cálculo da rota, e rota a fica mudando a todo instante, eu precisei usar um Banco em Cloud, 
-para disponibilidade em 100% do tempo, e também em tempo real, para que todas as vezes que a rota mudasse conseguisse atualizar em tempo real.
-
-
-
-![banco-firebase](https://user-images.githubusercontent.com/80370151/170394052-5153aff0-fa6e-430f-a026-9d2668979a53.png)
-
-
-## Minhas Dificuldades
-
-A maior dificuldade foi na aplicação do api, e na montagem do blocos para calcular a rota,
-
-isso foi superado atravez de horas de pesquisas e estudos.
 
 ## Conclusão
 * Nesse api desenvolvi meu raciocinio logico.
