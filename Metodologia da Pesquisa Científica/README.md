@@ -137,4 +137,35 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 * Aprendi Modelagem de dados não relacionais.
 
+## **Projeto API -2021-1**
+**Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
+
+#### **Tetris**
+Grupo Tetris foi constituido por 8 integrantes
+A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por  P.O, Master,
+e desnvolvedores
+
+A equipe Tetris é composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
+
+- ***Product Owner***
+  - Alexia Karine Silva dos Santos
+  
+- ### **Scrum Master**
+  - Jefferson Tavares de Araújo
+  
+- ### **Team Dev :**
+
+  - Davi das Neves Machado
+  
+  - Gabriel Oliveira Sana
+  
+  - Marcos Francisco da Silva
+  
+  - Nágella Nasser
+  
+  - Renata Garcia Nonato
+  
+  - Valdiney José do Nascimento
+  
+
 
