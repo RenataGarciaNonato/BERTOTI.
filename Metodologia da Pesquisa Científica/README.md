@@ -141,21 +141,17 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 **Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
 
 #### **Tetris**
-Grupo Tetris foi constituido por 8 integrantes
-A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por  P.O, Master,
-e desnvolvedores
+A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
-A equipe Tetris é composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
-
-- ***Product Owner***
-  - Alexia Karine Silva dos Santos
+ ***Product Owner***
+  -Alexia Karine Silva dos Santos
   
-- ### **Scrum Master**
-  - Jefferson Tavares de Araújo
+ ### **Scrum Master**
+  - efferson Tavares de Araújo
   
-- ### **Team Dev :**
+ ### **Team Dev:**
 
-  - Davi das Neves Machado
+  - avi das Neves Machado
   
   - Gabriel Oliveira Sana
   
