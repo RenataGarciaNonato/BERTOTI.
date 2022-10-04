@@ -138,20 +138,21 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 * Aprendi Modelagem de dados não relacionais.
 
 ## **Projeto API -2021-1**
-**Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
+**Proposta:** 
+Disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
 #### **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
- ***Product Owner***
-  -Alexia Karine Silva dos Santos
+ ### **Product Owner**
+  - Alexia Karine Silva dos Santos
   
  ### **Scrum Master**
-  - efferson Tavares de Araújo
+  - Jefferson Tavares de Araújo
   
  ### **Team Dev:**
 
-  - avi das Neves Machado
+  - Davi das Neves Machado
   
   - Gabriel Oliveira Sana
   
@@ -163,5 +164,22 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
   
   - Valdiney José do Nascimento
   
+## **Solução:**
+
+## **ConsultCar**
+ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
+
+**Tecnologias Ultilizadas**
+- Git
+- GitHub
+- Apache Maven
+- IDE Eclipse || JAVA
+- Biblioteca GeoTools
+- Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver
+- Extensão espacial para o banco de dados: PostGIS
+
+## Minhas contribuições 
+
+
 
 
