@@ -22,13 +22,15 @@ A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por Maste
 da diciplina Banco de dados,
 e desnvolvedores alunos do 1 semestre de Banco de dados
 
+![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
+
 #### **Masters:**
 
 - Fabio Romeiro
 
 - Mateus Machado
 
-#### **Time de Desenvolvedores:**
+#### **Time de Desenvolvedores:** 
 
 - Gabriel Oliveira Sana
 
@@ -44,7 +46,8 @@ e desnvolvedores alunos do 1 semestre de Banco de dados
 
 ## **Solução:**
 
-## **Vantec** ![image](https://user-images.githubusercontent.com/80370151/203196518-493ff111-f7b0-40e0-8e11-47e9d3d5a6fc.png)
+## **Vantec**   
+![image](https://user-images.githubusercontent.com/80370151/203196518-493ff111-f7b0-40e0-8e11-47e9d3d5a6fc.png)
 
 
 
@@ -71,7 +74,7 @@ Otmizar e planejar a melhor Rota.
 
 * Figma
 
-** FrameWork
+* FrameWork
 
 * Scrum
 
@@ -148,6 +151,8 @@ Disponibilizar de forma organizada em tabela informações extraídas a partir d
 #### **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
+![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
+
  ### **Product Owner**
   - Alexia Karine Silva dos Santos
   
@@ -216,6 +221,8 @@ que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do soft
 
 #### **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco de Dados pela FATEC de São José dos Campos:
+
+![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
 
  ### **Product Owner**
  - Nágella Nasser
