@@ -209,7 +209,7 @@ que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do soft
 
 
 ## **Projeto API -2021-2**
-**Proposta:** Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+**Proposta:** Desenvolver uma aplicação web para a realização das cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
 #### **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco de Dados pela FATEC de São José dos Campos:
@@ -228,7 +228,65 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 - Jefferson Tavares de Araújo 
 - Renata Garcia Nonato 
 - Valdiney José do Nascimento
+
+### **Objetivo**
+Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+
+## **Solução:**
   
+### **ScrumCloud**
+Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
+
+### **Público-alvo**
+Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
+
+**Tecnologias utilizadas**
+-Git
+-GitHub
+
+-IDE Intellij || Backend
+
+-Linguagem de Programação: Java
+-IDE Vs Code || Frontend
+
+-Linguagens:
+-Marcação: HTML5
+-Estilização: CSS3
+-Programação: Javascript
+-BootStrap
+
+-ReactJS
+
+-Hibernate
+
+-Spring Framework
+
+-Banco de Dados: MySQL
+
+## Minhas contribuições
+Participei da prototipagem das Wireframes
+A protipação da Wirefrrames é a uma das partes mais importante do inicio do projeto.
+Somente com prototipagem é possível que o cliente consiga visualizar, e participação da criação do projeto, é durante a prototipagem que o cliente consegue expor se o que sera desenvolvido está condizente com o que é esperado dessa aplicação.
+
+**Tela de login**
+
+![image](https://user-images.githubusercontent.com/80370151/203187125-74c020b6-4ffa-4161-bd9f-eddf793513a1.png)
+
+
+**Tela de Cadastro do Time**
+
+![image](https://user-images.githubusercontent.com/80370151/203187218-1701ed77-cc76-4d06-ace0-5cdcb3f07c9f.png)
+
+**Tela de Cadastro do Usuário**
+
+![image](https://user-images.githubusercontent.com/80370151/203187365-ff919334-c861-4bf7-a2f3-3318496f3c9b.png)
+
+
+
+
+
+
+
 
 
 
