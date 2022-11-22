@@ -141,7 +141,7 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 
 
-## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Conclusão
+## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Aprendizados:
 * Nesse api desenvolvi meu raciocinio logico.
 
 * Aprendi a logica de programação.
