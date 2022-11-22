@@ -403,12 +403,16 @@ Nesse projeto atuei como **Product Owner** da equipe, fiquei responsável por li
 
 Estive presente, certificando que a equipe estivesse bem alinhada com o projeto.
 
-Coma a visão estratégica no projeto, pude compartilhar minha percepção de quem era o público alvo, e quais as metas que deveríamos alcançar. 
+Coma a visão estratégica no projeto, pude compartilhar minha percepção de quem era o público alvo, e quais as metas que deveríamos alcançar.
+
 Participei da criação o **Product backlog** junto com o master do Time, dessa maneira ajudei a listar as principais necessidades do cliente.
-Facilitei a comunicação entre o Team Dev, e o cliente.
+
+Atravez da plataforma Slack pude conversar com o cliente, e com issofFacilitei a comunicação entre o Team Dev, e o cliente.
+
 Lidei com os requisitos exigidos pelos clientes, sempre atualizando a equipe, e o **Project backlog**, focando em garantir que os itens listados continuassem sendo importantes para o desenvolvimento do projeto, e que tudo saísse conforme planejado.
 
-Outro fator muito importante, foi entender as necessidades dos clientes, ajudando a externalizar o que era espera do produto
+Outro fator muito importante, foi entender as necessidades dos clientes, ajudando atravez das trocas de mesnagens e reuniões a externalizar o que era espera do produto.
+
 Foi essencial consegui extrair essas informações do cliente, pois isso garantiu com que equipe a desenvolve-se o produto conforme o planejado, deixando o cliente plenamente satisfeito.
 
 
