@@ -12,7 +12,7 @@ Ingressante 2020-2, apaixonada por tecnologias, e por aprender coisas novas.
 A faculdade me trouxe além de conhecimentos academicos, conhecimentos pessoais, e ajudou aprimorar minhas Soft Skills.
 O API colaborou para o desenvolvimento das minhas Hard Skills.
 
-# **Projeto que participei**
+## **Projeto que participei**
 
 ## **Projeto API -2020-2**
 **Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
@@ -45,7 +45,7 @@ e desnvolvedores alunos do 1 semestre de Banco de dados
 
 - Ticiane Maria
 
-## **Solução:**
+## ![solucao](https://user-images.githubusercontent.com/80370151/203209911-45a2785c-c311-4878-839a-633718fff427.png) **Solução:**
 
 ## **Vantec**   
 ![image](https://user-images.githubusercontent.com/80370151/203196518-493ff111-f7b0-40e0-8e11-47e9d3d5a6fc.png)
@@ -54,7 +54,7 @@ e desnvolvedores alunos do 1 semestre de Banco de dados
 
 Desenvolvemos uma aplicação versatil, funcional, simples, e facíl de ser utilizada.
 
-**Objetivo**
+## 📌 **Objetivo**
 
 Facilitar a vida do motorista, e passageiros.
 
@@ -63,11 +63,11 @@ tanto no âmbito escolar, como profissional.
 
 Otmizar e planejar a melhor Rota.
 
-:computer: **Tecnologias Ultilizadas**
+## ![software-development](https://user-images.githubusercontent.com/80370151/203208925-cfdcb341-59ce-47a8-bffe-1408e6ac93be.png) **Tecnologias Ultilizadas**
 
-* App Inventor.
+* App Inventor
 
-* Banco de Dados Firebase.
+* Banco de Dados Firebase
 
 * Git
 
@@ -150,8 +150,8 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 
 
-## **Projeto API -2021-1**
-**Proposta:** 
+# **Projeto API -2021-1**
+## **Proposta:** 
 Disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
 ## **Tetris**
@@ -179,12 +179,12 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
   
   - Valdiney José do Nascimento
   
-## **Solução:**
+## ![solucao](https://user-images.githubusercontent.com/80370151/203209807-8bae20ec-0265-4b28-a2e0-e3e56f928219.png) **Solução:**
 
 ## **ConsultCar**
 ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 
-💻 **Tecnologias Ultilizadas** 
+## ![software-development](https://user-images.githubusercontent.com/80370151/203208738-65fe0a0a-f746-49fe-bbf4-84997792b6c1.png) **Tecnologias Ultilizadas** 
 - Git
 - GitHub
 - Apache Maven
@@ -198,7 +198,7 @@ ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, arma
 
 
 Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
-Para que isso fosse possivel aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
+Para que isso fosse possível aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
 
 ### **Modelo Conceitual**
 ![image](https://user-images.githubusercontent.com/80370151/203181251-1b985bc7-14aa-4ef8-ab2b-c6eaa82c321b.png)
@@ -209,7 +209,7 @@ Para que isso fosse possivel aprendemos as funcionalodades da  ferramenta BRMode
 ![image](https://user-images.githubusercontent.com/80370151/203181416-dae562ce-85f8-40d8-b3b7-d9d0c5c37aee.png)
 
 Outra contribuição foi a criação da Wireframes da aplicação.
-Essa contribuição consegui me aprofundar na materia de linguagem de programação, baseando no conteudo que foi passado.
+Essa contribuição consegui me aprofundar na materia de linguagem de programação, baseando no conteúdo da matéria.
 
 ### **Tela Inicial**
 
@@ -223,7 +223,7 @@ Essa contribuição consegui me aprofundar na materia de linguagem de programaç
 
 
 ### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Conclusão
-Nesse Api pratiquei os conteudos das materias aplicadas para o  no 2° semestre de Banco de Dados, em especial a materia de Engenharia de Software
+Nesse Api pratiquei os conteúdos das materias aplicadas para o  no 2° semestre de Banco de Dados, em especial a matéria de Engenharia de Software
 que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do softwares.
 
 
@@ -254,7 +254,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 ###  :pushpin: **Objetivo**
 Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
-## **Solução:**
+## ![solucao](https://user-images.githubusercontent.com/80370151/203209855-cb9561ad-aafd-4bb5-9b90-b830048d70a6.png) **Solução:**
   
 ### **ScrumCloud**
 Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
@@ -262,7 +262,7 @@ Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias
 ### :dart: **Público-alvo**
 Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
 
-:computer: **Tecnologias utilizadas**
+## ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
 -Git
 -GitHub
 
@@ -337,11 +337,77 @@ https://newaccount1637966996475.freshdesk.com/support/tickets/new
 
 
 
-**Outra contribuição**
+## ** ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) Outra contribuição**
 Desenvolvi com a ajuda de alguns integrantes da equipe a tela front-end do projeto.
 
 ## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) **Conclusão**
-Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendir a documentar um projeto, aplicar metódo Balanced Scorecard , o desenvolvimento de uma plataforma de Help-Desk, e dei incio ao aprendizado da programação front-end.
+Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendi a documentar um projeto, a aplicar metódo Balanced Scorecard , tive a oportunidade de criar uma plataforma Help-Desk, e dei início ao aprendizado da programação front-end.
+
+
+
+
+
+## **Projeto API -2022-1**
+**Proposta:** Desenvolver uma aplicação web que permitem aos Diretores e Gerentes de lojas que pretendem abrir franquias da loja e estudarem os perfis de seus clientes para com isso enviar campanhas de marketing para os mesmos.
+
+## **Vue-Force**
+A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Banco de Dados pela FATEC de São José dos Campos:
+
+![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
+
+ ### **Product Owner**
+- Renata Garcia Nonato
+ 
+ ### **Scrum Master**
+- Jefferson Tavares Araujo
+
+## **Team Dev :**
+- Davi Ramos Andrade 
+
+- Helen Alevato 
+
+- João Cruz 
+
+- Mateus Camargo Lima 
+
+- Orlando Pereira
+ 
+## 📌 *objetivo*  
+Segmentar para descobrir novas demandas de produtos por regioes, melhorando a visibilidade da base de clientes a partir da leitura de arquivos *.CSV. A aplicação poderá auxiliar na tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos.
+
+
+## ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
+- Git
+
+- Gitlab
+
+- IDE Intellij || Backend
+- Linguagem de Programação: Java
+
+- IDE Vs Code || Frontend
+- Linguagens Frontend:
+- Marcação: HTML5
+- Estilização: CSS3
+- Programação: Javascript
+- Vue Js
+- Node
+- Springboot
+
+- Banco de Dados: ORACLE
+- Programação PLSQL
+- ORACLE CLOUD
+
+## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
+
+Nesse projeto atuei como **Product Owner** da equipe, fiquei responsável por liderar o processo de desenvolvimento do produto. 
+Estive presente, certificando que a equipe estivesse bem alinhada com o projeto
+Coma a visão estratégica no projeto, pude compartilhar minha percepção de quem era o público alvo, e quais as metas que deveríamos alcançar. 
+Participei da criação o **Product backlog** junto com o master do Time, dessa maneira ajudei a listar as principais necessidades do cliente.
+Facilitei a comunicação entre o Team Dev, e o cliente.
+ Lidei com os requisitos exigidos pelos clientes, sempre atualizando a equipe, e o **Project backlog**, focando em garantir que os itens listados continuassem sendo importantes para o desenvolvimento do projeto, e que tudo saísse conforme planejado.
+Outro fator muito importante, foi entender as necessidades dos clientes, ajudando a externalizar o que era espera do produto
+Foi essencial consegui extrair essas informações do cliente, pois isso garantiu com que equipe a desenvolve-se o produto conforme o planejado, deixando o cliente plenamente satisfeito
+
 
 
 
