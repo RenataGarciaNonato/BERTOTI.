@@ -222,17 +222,11 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 
 ## **Team Dev :**
 - Alexia Karine Silva dos Santos 
-
-- Gabriel Oliveira Sana 
-- 
+- Gabriel Oliveira Sana  
 - Guilherme Agostin 
-- 
 - Guilherme de Oliveira Perfeito 
-- 
 - Jefferson Tavares de Araújo 
-- 
 - Renata Garcia Nonato 
-
 - Valdiney José do Nascimento
   
 
