@@ -290,10 +290,6 @@ Contribui com toda a parte da documentação do projeto
 
 ![image](https://user-images.githubusercontent.com/80370151/203189049-2326c0ef-ed11-4d39-b60a-e107205e354d.png)
 
-![image](https://user-images.githubusercontent.com/80370151/203189350-5b98bb2c-949b-45ee-94de-2ab108167ba9.png)
-
-![image](https://user-images.githubusercontent.com/80370151/203189406-23a79fdf-8a72-445c-a3f7-bee207ff2d39.png)
-
 
 
 **BSC** 
