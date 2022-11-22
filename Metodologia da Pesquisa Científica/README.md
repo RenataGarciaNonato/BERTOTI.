@@ -88,11 +88,14 @@ e desnvolvedores alunos do 1° semestre de Banco de dados
 Desenvolvi uma arquitetura de acesso a dados via API.
 Utilizei uma API para o cálculo da rota, essa API foi adquirida atravez do site OpenRouterService, a aplicação dessa API foi valida como aprendizagem,  para saber aplicar outras APIs em outros projetos, pois as APIs tem uma forma uniforme de acesso.
 
+<details open>
+
 ![image](https://user-images.githubusercontent.com/80370151/171467676-9f92191c-0fd3-4bda-8f35-44ad6464f11b.png)
 
 
 <img width="955" alt="111" src="https://user-images.githubusercontent.com/80370151/171465565-d20039ed-b9cd-4f32-bfe9-e1485529f321.png">
 
+ </details>
 
 Outra contribuição foi a Modelagem de Dados:
 
@@ -106,9 +109,11 @@ E Como utilizei no projeto uma API para o cálculo da rota, e rota a fica mudand
 para disponibilidade em 100% do tempo, e também em tempo real, para que todas as vezes que a rota mudasse conseguisse atualizar em tempo real.
 
 
-
+<details open>
+ 
 ![banco-firebase](https://user-images.githubusercontent.com/80370151/170394052-5153aff0-fa6e-430f-a026-9d2668979a53.png)
-
+ 
+</details>
 
 **Hard Skill desenvolvidas:**
 
@@ -222,7 +227,7 @@ Essa contribuição consegui me aprofundar na materia de linguagem de programaç
 * Noções de programação em Java
 
 
-### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Conclusão
+### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Aprendizados
 Nesse Api pratiquei os conteúdos das materias aplicadas para o  no 2° semestre de Banco de Dados, em especial a matéria de Engenharia de Software
 que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do softwares.
 
