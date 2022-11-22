@@ -44,7 +44,8 @@ e desnvolvedores alunos do 1 semestre de Banco de dados
 
 ## **Solução:**
 
-## **Vantec** ![image](https://user-images.githubusercontent.com/80370151/203196207-17e74adc-7967-46b0-b866-e248995d030c.png)
+## **Vantec** ![image](https://user-images.githubusercontent.com/80370151/203196518-493ff111-f7b0-40e0-8e11-47e9d3d5a6fc.png)
+
 
 
 Desenvolvemos uma aplicação versatil, funcional, simples, e facíl de ser utilizada.
