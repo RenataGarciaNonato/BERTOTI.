@@ -81,9 +81,8 @@ Otmizar e planejar a melhor Rota.
 
 
 
-## Minhas contribuições 
 
-![image](https://user-images.githubusercontent.com/80370151/203198769-80001241-dc3b-4ae6-9dff-4f6895fd81f6.png)
+## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204380-b0d3fdf4-753f-4a39-9f81-3672baca8e62.png) Minhas contribuições 
 
 
 Desenvolvi uma arquitetura de acesso a dados via API.
@@ -137,7 +136,7 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 
 
-## Conclusão
+## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Conclusão
 * Nesse api desenvolvi meu raciocinio logico.
 
 * Aprendi a logica de programação.
@@ -148,11 +147,14 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 * Aprendi Modelagem de dados não relacionais.
 
+
+
+
 ## **Projeto API -2021-1**
 **Proposta:** 
 Disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
-#### **Tetris**
+## **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
@@ -192,41 +194,44 @@ ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, arma
 - Extensão espacial para o banco de dados: PostGIS
 -BRMODELO
 
-## Minhas contribuições 
+## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204614-4632bb59-4140-4fe6-a25e-d3303ed13b61.png) Minhas contribuições 
 
-![image](https://user-images.githubusercontent.com/80370151/203198769-80001241-dc3b-4ae6-9dff-4f6895fd81f6.png)
 
 Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
 Para que isso fosse possivel aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
 
-**Modelo Conceitual**
+### **Modelo Conceitual**
 ![image](https://user-images.githubusercontent.com/80370151/203181251-1b985bc7-14aa-4ef8-ab2b-c6eaa82c321b.png)
 
-**Modelo Logico**
+
+### **Modelo Logico**
+
 ![image](https://user-images.githubusercontent.com/80370151/203181416-dae562ce-85f8-40d8-b3b7-d9d0c5c37aee.png)
 
 Outra contribuição foi a criação da Wireframes da aplicação.
 Essa contribuição consegui me aprofundar na materia de linguagem de programação, baseando no conteudo que foi passado.
 
-**Tela Inicial**
+### **Tela Inicial**
 
 ![image](https://user-images.githubusercontent.com/80370151/203187668-9fe7fd62-99aa-4bf6-880b-d25d1aafcedd.png)
 
-**Hard Skill desenvolvidas:**
+
+### **Hard Skill desenvolvidas:**
 * Modelagem de Banco de Dados
 
 * Noções de programação em Java
 
 
-## Conclusão
+### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Conclusão
 Nesse Api pratiquei os conteudos das materias aplicadas para o  no 2° semestre de Banco de Dados, em especial a materia de Engenharia de Software
 que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do softwares.
 
 
-## **Projeto API -2021-2**
+
+# **Projeto API -2021-2**
 **Proposta:** Desenvolver uma aplicação web para a realização das cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
-#### **Tetris**
+## **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
@@ -254,7 +259,7 @@ Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento r
 ### **ScrumCloud**
 Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
 
-### ![image](https://user-images.githubusercontent.com/80370151/203197804-01cc7a12-df7c-41f3-9437-d5c36d2b9c77.png)   **Público-alvo**
+### :dart: **Público-alvo**
 Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
 
 :computer: **Tecnologias utilizadas**
@@ -280,13 +285,13 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 
 -Banco de Dados: MySQL
 
-### **Minhas contribuições**
+## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
 
-![image](https://user-images.githubusercontent.com/80370151/203198410-0a862db8-7ad3-4f46-92d3-26c0f2ff0dae.png) 
 
-Contribui com toda a parte da documentação do projeto
 
-**User Stories**
+### *Contribui com toda a parte da documentação do projeto*
+
+## **User Stories**
 
 ![image](https://user-images.githubusercontent.com/80370151/203190869-24e65a4b-f1e9-407f-b9fc-1780773e473e.png)
 
@@ -303,7 +308,7 @@ Contribui com toda a parte da documentação do projeto
 ![image](https://user-images.githubusercontent.com/80370151/203191079-05cc102e-9ed4-47ec-adbc-96e6882c1b4e.png)
 
 
-**Product Backlog**
+## **Product Backlog**
 
 ![image](https://user-images.githubusercontent.com/80370151/203188944-b59460c2-aea7-46e8-ad00-40de2940f961.png)
 
@@ -311,23 +316,31 @@ Contribui com toda a parte da documentação do projeto
 
 ![image](https://user-images.githubusercontent.com/80370151/203189049-2326c0ef-ed11-4d39-b60a-e107205e354d.png)
 
-**Sprint planning**
+
+
+## **Sprint planning**
 
 ![image](https://user-images.githubusercontent.com/80370151/203192810-e14dd60e-4cf4-4065-8783-3b591aa6d10b.png)
 
 
-**Balanced Scorecard** 
+
+
+## **Balanced Scorecard** 
 
 ![image](https://user-images.githubusercontent.com/80370151/203188823-312209b6-8a5f-4247-9dc1-883197053035.png)
 
 
-**Help-Desk**
+
+
+## **Help-Desk**
 https://newaccount1637966996475.freshdesk.com/support/tickets/new
+
+
 
 **Outra contribuição**
 Desenvolvi com a ajuda de alguns integrantes da equipe a tela front-end do projeto.
 
-## **Conclusão**
+## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) **Conclusão**
 Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendir a documentar um projeto, aplicar metódo Balanced Scorecard , o desenvolvimento de uma plataforma de Help-Desk, e dei incio ao aprendizado da programação front-end.
 
 
