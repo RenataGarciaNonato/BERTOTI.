@@ -272,10 +272,9 @@ Somente com prototipagem é possível que o cliente consiga visualizar, e partic
 
 ![image](https://user-images.githubusercontent.com/80370151/203187125-74c020b6-4ffa-4161-bd9f-eddf793513a1.png)
 
-
 **Tela de Cadastro do Time**
 
-![image](https://user-images.githubusercontent.com/80370151/203187218-1701ed77-cc76-4d06-ace0-5cdcb3f07c9f.png)
+![image](https://user-images.githubusercontent.com/80370151/203187545-9f2920aa-92c1-45d8-b205-048e4782d695.png)
 
 **Tela de Cadastro do Usuário**
 
