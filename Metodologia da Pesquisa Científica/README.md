@@ -177,8 +177,36 @@ ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, arma
 - Biblioteca GeoTools
 - Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver
 - Extensão espacial para o banco de dados: PostGIS
+-BRMODELO
 
 ## Minhas contribuições 
+Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
+Para que isso fosse possivel aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
+
+**Modelo Conceitual**
+![image](https://user-images.githubusercontent.com/80370151/203181251-1b985bc7-14aa-4ef8-ab2b-c6eaa82c321b.png)
+
+**Modelo Logico**
+![image](https://user-images.githubusercontent.com/80370151/203181416-dae562ce-85f8-40d8-b3b7-d9d0c5c37aee.png)
+
+Outra contribuição foi a criação da Wireframes da aplicação.
+Essa contribuição consegui me aprofundar na materia de linguagem de programação, baseando no conteudo que foi passado.
+
+**Tela Inicial**
+![image](https://user-images.githubusercontent.com/80370151/203181685-47776752-c831-4e5e-b123-f7d96673e4b3.png)
+
+**Hard Skill desenvolvidas:**
+* Modelagem de Banco de Dados
+
+* Noções de programação em Java
+
+
+## Conclusão
+Nesse Api pratiquei os conteudos das materias aplicadas para o  no 2° semestre de Banco de Dados, em especial a materia de Engenharia de Software
+que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção de softwares.
+  
+
+
 
 
 
