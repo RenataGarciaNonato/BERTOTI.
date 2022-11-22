@@ -82,6 +82,9 @@ Otmizar e planejar a melhor Rota.
 
 ## Minhas contribuições 
 
+![image](https://user-images.githubusercontent.com/80370151/203198769-80001241-dc3b-4ae6-9dff-4f6895fd81f6.png)
+
+
 Desenvolvi uma arquitetura de acesso a dados via API.
 Utilizei uma API para o cálculo da rota, essa API foi adquirida atravez do site OpenRouterService, a aplicação dessa API foi valida como aprendizagem,  para saber aplicar outras APIs em outros projetos, pois as APIs tem uma forma uniforme de acesso.
 
@@ -189,6 +192,9 @@ ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, arma
 -BRMODELO
 
 ## Minhas contribuições 
+
+![image](https://user-images.githubusercontent.com/80370151/203198769-80001241-dc3b-4ae6-9dff-4f6895fd81f6.png)
+
 Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
 Para que isso fosse possivel aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
 
@@ -239,7 +245,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 - Renata Garcia Nonato 
 - Valdiney José do Nascimento
 
-### **Objetivo**
+###  :pushpin: **Objetivo**
 Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
 ## **Solução:**
@@ -247,7 +253,7 @@ Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento r
 ### **ScrumCloud**
 Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
 
-### **Público-alvo**
+### ![image](https://user-images.githubusercontent.com/80370151/203197804-01cc7a12-df7c-41f3-9437-d5c36d2b9c77.png)   **Público-alvo**
 Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
 
 **Tecnologias utilizadas**
@@ -273,7 +279,10 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 
 -Banco de Dados: MySQL
 
-## Minhas contribuições
+### **Minhas contribuições**
+
+![image](https://user-images.githubusercontent.com/80370151/203198410-0a862db8-7ad3-4f46-92d3-26c0f2ff0dae.png) 
+
 Contribui com toda a parte da documentação do projeto
 
 **User Stories**
@@ -317,7 +326,7 @@ https://newaccount1637966996475.freshdesk.com/support/tickets/new
 **Outra contribuição**
 Desenvolvi com a ajuda de alguns integrantes da equipe a tela front-end do projeto.
 
-## Conclusão
+## **Conclusão**
 Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendir a documentar um projeto, aplicar metódo Balanced Scorecard , o desenvolvimento de uma plataforma de Help-Desk, e dei incio ao aprendizado da programação front-end.
 
 
