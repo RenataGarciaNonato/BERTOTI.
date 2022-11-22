@@ -5,8 +5,6 @@
 
 
 
-
-
 # **Portifolio API (Aplicação Projeto integrador)**
 
 Sou **Renata Garcia Nonato** aluna do curos Banco de Dados 4° semestre, na instituição fatec-Jessen Vidal
@@ -14,16 +12,33 @@ Ingressante 2020-2, apaixonada por tecnologias, e por aprender coisas novas.
 A faculdade me trouxe além de conhecimentos academicos, conhecimentos pessoais, e ajudou aprimorar minhas Soft Skills.
 O API colaborou para o desenvolvimento das minhas Hard Skills.
 
-## **Projeto que participei**
+## **Projetos que participei**
 
 ## **Projeto API -2020-2**
 **Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
 
+### **Aplicativo Vantec**   
+![image](https://user-images.githubusercontent.com/80370151/203196518-493ff111-f7b0-40e0-8e11-47e9d3d5a6fc.png)
+
+Desenvolvemos uma aplicação versatil, funcional, simples, e facíl de ser utilizada.
+
+## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437140-869adc99-69a3-435f-b395-25cd75a4288e.png) **Descrição**
+
+Facilitar a vida do motorista, e passageiros.
+
+Gerenciar suas rotinas relacionadas ao transporte fretado
+tanto no âmbito escolar, como profissional.
+
+Otmizar e planejar a melhor Rota.
+
 #### **Vazeiros do Vale**
 Grupo Vanseiros do Vale foi constituido por 8 integrantes
-A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por Master alunos do 6 semestre
+A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por Master alunos do 6° semestre
 da diciplina Banco de dados,
-e desnvolvedores alunos do 1 semestre de Banco de dados
+e desnvolvedores alunos do 1° semestre de Banco de dados
+
+<details open>
+<summary> <b>Team</b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
 
@@ -47,23 +62,8 @@ e desnvolvedores alunos do 1 semestre de Banco de dados
 
 - Ticiane Maria
 
-## ![solucao](https://user-images.githubusercontent.com/80370151/203209911-45a2785c-c311-4878-839a-633718fff427.png) **Solução:**
+</details>
 
-## **Vantec**   
-![image](https://user-images.githubusercontent.com/80370151/203196518-493ff111-f7b0-40e0-8e11-47e9d3d5a6fc.png)
-
-
-
-Desenvolvemos uma aplicação versatil, funcional, simples, e facíl de ser utilizada.
-
-## 📌 **Objetivo**
-
-Facilitar a vida do motorista, e passageiros.
-
-Gerenciar suas rotinas relacionadas ao transporte fretado
-tanto no âmbito escolar, como profissional.
-
-Otmizar e planejar a melhor Rota.
 
 ## ![software-development](https://user-images.githubusercontent.com/80370151/203208925-cfdcb341-59ce-47a8-bffe-1408e6ac93be.png) **Tecnologias Ultilizadas**
 
@@ -80,8 +80,6 @@ Otmizar e planejar a melhor Rota.
 * FrameWork
 
 * Scrum
-
-
 
 
 ## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204380-b0d3fdf4-753f-4a39-9f81-3672baca8e62.png) Minhas contribuições 
@@ -183,7 +181,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
   
 ## ![solucao](https://user-images.githubusercontent.com/80370151/203209807-8bae20ec-0265-4b28-a2e0-e3e56f928219.png) **Solução:**
 
-## **ConsultCar**
+## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437726-6325bb3a-1939-48fd-9a02-e6496d207bae.png)  **Descrição:** **ConsultCar**
 ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 
 ## ![software-development](https://user-images.githubusercontent.com/80370151/203208738-65fe0a0a-f746-49fe-bbf4-84997792b6c1.png) **Tecnologias Ultilizadas** 
@@ -253,7 +251,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 - Renata Garcia Nonato 
 - Valdiney José do Nascimento
 
-###  :pushpin: **Objetivo**
+### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438360-fd8cee7b-51fa-4f4d-a1c0-8bdadaa96db6.png) **Descrição**
 Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
 ## ![solucao](https://user-images.githubusercontent.com/80370151/203209855-cb9561ad-aafd-4bb5-9b90-b830048d70a6.png) **Solução:**
@@ -374,7 +372,8 @@ A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Ba
 
 - Orlando Pereira
  
-## 📌 *objetivo*  
+## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438072-cf3d6559-49b8-44a5-b337-d0c5cec25d0d.png)  **Descrição**
+
 Segmentar para descobrir novas demandas de produtos por regioes, melhorando a visibilidade da base de clientes a partir da leitura de arquivos *.CSV. A aplicação poderá auxiliar na tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos.
 
 
