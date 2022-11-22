@@ -1,4 +1,4 @@
-Renata Garca Nonato RA: 1460282023024
+# **Renata Garca Nonato RA: 1460282023024**
 
 
 
@@ -290,11 +290,27 @@ Contribui com toda a parte da documentação do projeto
 
 ![image](https://user-images.githubusercontent.com/80370151/203189049-2326c0ef-ed11-4d39-b60a-e107205e354d.png)
 
+**Sprint planning**
+
+![image](https://user-images.githubusercontent.com/80370151/203192810-e14dd60e-4cf4-4065-8783-3b591aa6d10b.png)
 
 
-**BSC** 
+**Balanced Scorecard** 
 
 ![image](https://user-images.githubusercontent.com/80370151/203188823-312209b6-8a5f-4247-9dc1-883197053035.png)
+
+
+**Help-Desk**
+https://newaccount1637966996475.freshdesk.com/support/tickets/new
+
+**Outra contribuição**
+Desenvolvi com a ajuda de alguns integrantes da equipe a tela front-end do projeto.
+
+## Conclusão
+Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendir a documentar um projeto, aplicar metódo Balanced Scorecard , o desenvolvimento de uma plataforma de Help-Desk, e dei incio ao aprendizado da programação front-end.
+
+
+
 
 
 
