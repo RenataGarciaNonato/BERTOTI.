@@ -400,13 +400,16 @@ Segmentar para descobrir novas demandas de produtos por regioes, melhorando a vi
 ## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
 
 Nesse projeto atuei como **Product Owner** da equipe, fiquei responsável por liderar o processo de desenvolvimento do produto. 
-Estive presente, certificando que a equipe estivesse bem alinhada com o projeto
+
+Estive presente, certificando que a equipe estivesse bem alinhada com o projeto.
+
 Coma a visão estratégica no projeto, pude compartilhar minha percepção de quem era o público alvo, e quais as metas que deveríamos alcançar. 
 Participei da criação o **Product backlog** junto com o master do Time, dessa maneira ajudei a listar as principais necessidades do cliente.
 Facilitei a comunicação entre o Team Dev, e o cliente.
- Lidei com os requisitos exigidos pelos clientes, sempre atualizando a equipe, e o **Project backlog**, focando em garantir que os itens listados continuassem sendo importantes para o desenvolvimento do projeto, e que tudo saísse conforme planejado.
+Lidei com os requisitos exigidos pelos clientes, sempre atualizando a equipe, e o **Project backlog**, focando em garantir que os itens listados continuassem sendo importantes para o desenvolvimento do projeto, e que tudo saísse conforme planejado.
+
 Outro fator muito importante, foi entender as necessidades dos clientes, ajudando a externalizar o que era espera do produto
-Foi essencial consegui extrair essas informações do cliente, pois isso garantiu com que equipe a desenvolve-se o produto conforme o planejado, deixando o cliente plenamente satisfeito
+Foi essencial consegui extrair essas informações do cliente, pois isso garantiu com que equipe a desenvolve-se o produto conforme o planejado, deixando o cliente plenamente satisfeito.
 
 
 
