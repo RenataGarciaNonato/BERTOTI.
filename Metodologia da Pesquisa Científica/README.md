@@ -4,6 +4,7 @@
 
 
 
+
 # **Portifolio API (Aplicação Projeto integrador)**
 
 Sou **Renata Garcia Nonato** aluna do curos Banco de Dados 4° semestre, na instituição fatec-Jessen Vidal
@@ -62,7 +63,7 @@ tanto no âmbito escolar, como profissional.
 
 Otmizar e planejar a melhor Rota.
 
-**Tecnologias Ultilizadas**
+:computer: **Tecnologias Ultilizadas**
 
 * App Inventor.
 
@@ -181,7 +182,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
 ## **ConsultCar**
 ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 
-**Tecnologias Ultilizadas**
+💻 **Tecnologias Ultilizadas** 
 - Git
 - GitHub
 - Apache Maven
@@ -256,7 +257,7 @@ Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias
 ### ![image](https://user-images.githubusercontent.com/80370151/203197804-01cc7a12-df7c-41f3-9437-d5c36d2b9c77.png)   **Público-alvo**
 Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
 
-**Tecnologias utilizadas**
+:computer: **Tecnologias utilizadas**
 -Git
 -GitHub
 
