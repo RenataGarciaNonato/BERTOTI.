@@ -194,8 +194,7 @@ Essa contribuição consegui me aprofundar na materia de linguagem de programaç
 
 **Tela Inicial**
 
-![image](https://user-images.githubusercontent.com/80370151/203183729-17e1a09f-3212-4533-bb3f-4b86274c39fc.png)
-
+![image](https://user-images.githubusercontent.com/80370151/203187668-9fe7fd62-99aa-4bf6-880b-d25d1aafcedd.png)
 
 **Hard Skill desenvolvidas:**
 * Modelagem de Banco de Dados
@@ -264,21 +263,7 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 -Banco de Dados: MySQL
 
 ## Minhas contribuições
-Participei da prototipagem das Wireframes
-A protipação da Wirefrrames é a uma das partes mais importante do inicio do projeto.
-Somente com prototipagem é possível que o cliente consiga visualizar, e participação da criação do projeto, é durante a prototipagem que o cliente consegue expor se o que sera desenvolvido está condizente com o que é esperado dessa aplicação.
 
-**Tela de login**
-
-![image](https://user-images.githubusercontent.com/80370151/203187125-74c020b6-4ffa-4161-bd9f-eddf793513a1.png)
-
-**Tela de Cadastro do Time**
-
-![image](https://user-images.githubusercontent.com/80370151/203187545-9f2920aa-92c1-45d8-b205-048e4782d695.png)
-
-**Tela de Cadastro do Usuário**
-
-![image](https://user-images.githubusercontent.com/80370151/203187365-ff919334-c861-4bf7-a2f3-3318496f3c9b.png)
 
 
 
