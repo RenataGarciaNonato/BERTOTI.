@@ -205,7 +205,35 @@ Essa contribuição consegui me aprofundar na materia de linguagem de programaç
 
 ## Conclusão
 Nesse Api pratiquei os conteudos das materias aplicadas para o  no 2° semestre de Banco de Dados, em especial a materia de Engenharia de Software
-que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção de softwares.
+que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do softwares.
+
+
+## **Projeto API -2021-2**
+**Proposta:** Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+
+#### **Tetris**
+A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco de Dados pela FATEC de São José dos Campos:
+
+ ### **Product Owner**
+ - Nágella Nasser
+
+### **Scrum Master**
+- Davi das Neves Machado
+
+## **Team Dev :**
+- Alexia Karine Silva dos Santos 
+
+- Gabriel Oliveira Sana 
+- 
+- Guilherme Agostin 
+- 
+- Guilherme de Oliveira Perfeito 
+- 
+- Jefferson Tavares de Araújo 
+- 
+- Renata Garcia Nonato 
+
+- Valdiney José do Nascimento
   
 
 
