@@ -267,10 +267,19 @@ Contribui com toda a parte da documentação do projeto
 
 **User Stories**
 
-![image](https://user-images.githubusercontent.com/80370151/203189212-75bf2c5e-21cb-43eb-b718-f558efb89621.png)
+![image](https://user-images.githubusercontent.com/80370151/203190869-24e65a4b-f1e9-407f-b9fc-1780773e473e.png)
 
-![image](https://user-images.githubusercontent.com/80370151/203189289-ad44a790-fd6e-4c44-bbec-a45c46dbd28b.png)
+![image](https://user-images.githubusercontent.com/80370151/203190911-6d3b7294-e7b1-4ddc-9d71-55749f696f6e.png)
 
+![image](https://user-images.githubusercontent.com/80370151/203190942-23569641-7cd9-400b-bf66-b6d5752d802e.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203190970-cebf7706-612c-4e77-bfba-cfa1e034cc2c.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203191005-e72c3c0c-0d4b-4ca7-8d2d-e7bbe7d43d1f.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203191051-23fdbbf4-b34a-4d4a-b960-5d7d949b22c2.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203191079-05cc102e-9ed4-47ec-adbc-96e6882c1b4e.png)
 
 
 **Product Backlog**
