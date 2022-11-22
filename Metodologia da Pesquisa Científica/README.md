@@ -193,7 +193,8 @@ Outra contribuição foi a criação da Wireframes da aplicação.
 Essa contribuição consegui me aprofundar na materia de linguagem de programação, baseando no conteudo que foi passado.
 
 **Tela Inicial**
-![image](https://user-images.githubusercontent.com/80370151/203181685-47776752-c831-4e5e-b123-f7d96673e4b3.png)
+![image](https://user-images.githubusercontent.com/80370151/203183729-17e1a09f-3212-4533-bb3f-4b86274c39fc.png)
+
 
 **Hard Skill desenvolvidas:**
 * Modelagem de Banco de Dados
