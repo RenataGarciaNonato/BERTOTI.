@@ -263,6 +263,36 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 -Banco de Dados: MySQL
 
 ## Minhas contribuições
+Contribui com toda a parte da documentação do projeto
+
+**User Stories**
+
+![image](https://user-images.githubusercontent.com/80370151/203189212-75bf2c5e-21cb-43eb-b718-f558efb89621.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203189289-ad44a790-fd6e-4c44-bbec-a45c46dbd28b.png)
+
+
+
+**Product Backlog**
+
+![image](https://user-images.githubusercontent.com/80370151/203188944-b59460c2-aea7-46e8-ad00-40de2940f961.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203188977-28ccdcc8-f6f4-4c48-8843-5fb97842eb90.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203189049-2326c0ef-ed11-4d39-b60a-e107205e354d.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203189350-5b98bb2c-949b-45ee-94de-2ab108167ba9.png)
+
+![image](https://user-images.githubusercontent.com/80370151/203189406-23a79fdf-8a72-445c-a3f7-bee207ff2d39.png)
+
+
+
+**BSC** 
+
+![image](https://user-images.githubusercontent.com/80370151/203188823-312209b6-8a5f-4247-9dc1-883197053035.png)
+
+
+
 
 
 
