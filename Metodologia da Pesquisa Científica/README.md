@@ -159,6 +159,9 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 ## **Proposta:** 
 Disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
+## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437726-6325bb3a-1939-48fd-9a02-e6496d207bae.png)  **Descrição:** **ConsultCar**
+ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
+
 ## **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
@@ -184,10 +187,6 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
   
   - Valdiney José do Nascimento
   
-## ![solucao](https://user-images.githubusercontent.com/80370151/203209807-8bae20ec-0265-4b28-a2e0-e3e56f928219.png) **Solução:**
-
-## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437726-6325bb3a-1939-48fd-9a02-e6496d207bae.png)  **Descrição:** **ConsultCar**
-ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 
 ## ![software-development](https://user-images.githubusercontent.com/80370151/203208738-65fe0a0a-f746-49fe-bbf4-84997792b6c1.png) **Tecnologias Ultilizadas** 
 - Git
@@ -205,9 +204,12 @@ ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, arma
 Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
 Para que isso fosse possível aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
 
-### **Modelo Conceitual**
+<details>
+ <summary> <b>Modelo Conceitual<b> </summary>
+
 ![image](https://user-images.githubusercontent.com/80370151/203181251-1b985bc7-14aa-4ef8-ab2b-c6eaa82c321b.png)
 
+ </details>
 
 ### **Modelo Logico**
 
