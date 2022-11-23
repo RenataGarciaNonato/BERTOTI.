@@ -5,16 +5,16 @@
 
 
 
-# **Portifolio API (Aplicação Projeto integrador)**
+## **Portifolio API (Aplicação Projeto integrador)**
 
 Sou **Renata Garcia Nonato** aluna do curos Banco de Dados 4° semestre, na instituição fatec-Jessen Vidal
 Ingressante 2020-2, apaixonada por tecnologias, e por aprender coisas novas.
 A faculdade me trouxe além de conhecimentos academicos, conhecimentos pessoais, e ajudou aprimorar minhas Soft Skills.
 O API colaborou para o desenvolvimento das minhas Hard Skills.
 
-## **Projetos que participei**
+### **Projetos que participei**
 
-## **Projeto API -2020-2**
+### **Projeto API -2020-2**
 **Proposta:** Desenvolver uma aplicação para motorista de Van escolar.
 
 ### **Aplicativo Vantec**   
@@ -22,7 +22,7 @@ O API colaborou para o desenvolvimento das minhas Hard Skills.
 
 Desenvolvemos uma aplicação versatil, funcional, simples, e facíl de ser utilizada.
 
-## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437140-869adc99-69a3-435f-b395-25cd75a4288e.png) **Descrição**
+### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437140-869adc99-69a3-435f-b395-25cd75a4288e.png) **Descrição**
 
 Facilitar a vida do motorista, e passageiros.
 
@@ -155,7 +155,7 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 
 
-## **Projeto API -2021-1**
+### **Projeto API -2021-1**
 ### **Proposta:** 
 Disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
@@ -243,7 +243,7 @@ que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do soft
 
 
 
-## **Projeto API -2021-2**
+### **Projeto API -2021-2**
 **Proposta:** Desenvolver uma aplicação web para a realização das cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
 ### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438360-fd8cee7b-51fa-4f4d-a1c0-8bdadaa96db6.png) **Descrição**
@@ -367,7 +367,7 @@ Nesse Api pratiquei os conteúdos das matérias aplicadas para o 3° semestre de
 
 
 
-## **Projeto API -2022-1**
+### **Projeto API -2022-1**
 **Proposta:** Desenvolver uma aplicação web que permitem aos Diretores e Gerentes de lojas que pretendem abrir franquias da loja e estudarem os perfis de seus clientes para com isso enviar campanhas de marketing para os mesmos.
 
 ### **Vue-Force**
