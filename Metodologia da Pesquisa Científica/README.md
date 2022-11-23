@@ -65,7 +65,7 @@ e desnvolvedores alunos do 1° semestre de Banco de dados
 </details>
 
 
-## ![software-development](https://user-images.githubusercontent.com/80370151/203208925-cfdcb341-59ce-47a8-bffe-1408e6ac93be.png) **Tecnologias Ultilizadas**
+### ![software-development](https://user-images.githubusercontent.com/80370151/203208925-cfdcb341-59ce-47a8-bffe-1408e6ac93be.png) **Tecnologias Ultilizadas**
 
 * App Inventor
 
@@ -82,7 +82,7 @@ e desnvolvedores alunos do 1° semestre de Banco de dados
 * Scrum
 
 
-## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204380-b0d3fdf4-753f-4a39-9f81-3672baca8e62.png) Minhas contribuições 
+### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204380-b0d3fdf4-753f-4a39-9f81-3672baca8e62.png) Minhas contribuições 
 
 
 Desenvolvi uma arquitetura de acesso a dados via API.
@@ -97,7 +97,7 @@ Utilizei uma API para o cálculo da rota, essa API foi adquirida atravez do site
 
  </details>
 
-Outra contribuição foi a Modelagem de Dados:
+### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) Outra contribuição foi a Modelagem de Dados:
 
 
 Modelagem de Dados com diferente paradigmas de modelagem de banco de Dados.
@@ -141,7 +141,7 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 
 
-## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Aprendizados:
+### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) Aprendizados:
 * Nesse api desenvolvi meu raciocinio logico.
 
 * Aprendi a logica de programação.
@@ -155,14 +155,14 @@ para disponibilidade em 100% do tempo, e também em tempo real, para que todas a
 
 
 
-# **Projeto API -2021-1**
-## **Proposta:** 
+## **Projeto API -2021-1**
+### **Proposta:** 
 Disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
-## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437726-6325bb3a-1939-48fd-9a02-e6496d207bae.png)  **Descrição:** **ConsultCar**
+### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203437726-6325bb3a-1939-48fd-9a02-e6496d207bae.png)  **Descrição:** **ConsultCar**
 ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 
-## **Tetris**
+### **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
@@ -188,7 +188,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
   - Valdiney José do Nascimento
   
 
-## ![software-development](https://user-images.githubusercontent.com/80370151/203208738-65fe0a0a-f746-49fe-bbf4-84997792b6c1.png) **Tecnologias Ultilizadas** 
+### ![software-development](https://user-images.githubusercontent.com/80370151/203208738-65fe0a0a-f746-49fe-bbf4-84997792b6c1.png) **Tecnologias Ultilizadas** 
 - Git
 - GitHub
 - Apache Maven
@@ -198,7 +198,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
 - Extensão espacial para o banco de dados: PostGIS
 -BRMODELO
 
-## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204614-4632bb59-4140-4fe6-a25e-d3303ed13b61.png) Minhas contribuições 
+### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204614-4632bb59-4140-4fe6-a25e-d3303ed13b61.png) Minhas contribuições 
 
 
 Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
@@ -230,7 +230,8 @@ Essa contribuição consegui me aprofundar na materia de linguagem de programaç
 </details>
   
   
-### **Hard Skill desenvolvidas:**
+ **Hard Skill desenvolvidas:**
+  
 * Modelagem de Banco de Dados
 
 * Noções de programação em Java
@@ -242,10 +243,16 @@ que auxilio para o desenvolvimento, um bom gerenciamento, e manutenção do soft
 
 
 
-# **Projeto API -2021-2**
+## **Projeto API -2021-2**
 **Proposta:** Desenvolver uma aplicação web para a realização das cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
-## **Tetris**
+### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438360-fd8cee7b-51fa-4f4d-a1c0-8bdadaa96db6.png) **Descrição**
+Foi Desenvolvido uma aplicação web que permite equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+  
+### **ScrumCloud**
+Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
+  
+### **Tetris**
 A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
@@ -256,7 +263,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 ### **Scrum Master**
 - Davi das Neves Machado
 
-## **Team Dev :**
+### **Team Dev :**
 - Alexia Karine Silva dos Santos 
 - Gabriel Oliveira Sana  
 - Guilherme Agostin 
@@ -265,18 +272,8 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 - Renata Garcia Nonato 
 - Valdiney José do Nascimento
 
-### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438360-fd8cee7b-51fa-4f4d-a1c0-8bdadaa96db6.png) **Descrição**
-Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
-
-## ![solucao](https://user-images.githubusercontent.com/80370151/203209855-cb9561ad-aafd-4bb5-9b90-b830048d70a6.png) **Solução:**
   
-### **ScrumCloud**
-Aplicação web para praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
-
-### :dart: **Público-alvo**
-Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos.
-
-## ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
+### ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
 -Git
 -GitHub
 
@@ -299,13 +296,12 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 
 -Banco de Dados: MySQL
 
-## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
-
-
+### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
 
 ### *Contribui com toda a parte da documentação do projeto*
 
-## **User Stories**
+<details open>
+ <summary> <b>User Stories<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203190869-24e65a4b-f1e9-407f-b9fc-1780773e473e.png)
 
@@ -321,8 +317,10 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 
 ![image](https://user-images.githubusercontent.com/80370151/203191079-05cc102e-9ed4-47ec-adbc-96e6882c1b4e.png)
 
+ </details>
 
-## **Product Backlog**
+<details open>
+ <summary> <b>Product Backlog<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203188944-b59460c2-aea7-46e8-ad00-40de2940f961.png)
 
@@ -330,32 +328,40 @@ Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerim
 
 ![image](https://user-images.githubusercontent.com/80370151/203189049-2326c0ef-ed11-4d39-b60a-e107205e354d.png)
 
+  </details>
 
-
-## **Sprint planning**
+<details open>
+ <summary> <b>Sprint planning<b> </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/80370151/203192810-e14dd60e-4cf4-4065-8783-3b591aa6d10b.png)
 
+</details>
 
 
-
-## **Balanced Scorecard** 
+<details open>
+ <summary> <b>Balanced Scorecard<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203188823-312209b6-8a5f-4247-9dc1-883197053035.png)
 
+  </details>
 
 
-
-## **Help-Desk**
+  
+<details open>
+ <summary> <b>Help-Desk<b>  </summary>
+  
 https://newaccount1637966996475.freshdesk.com/support/tickets/new
+  
+ </details>
 
 
 
-## ** ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) Outra contribuição**
+### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Outra contribuição**
 Desenvolvi com a ajuda de alguns integrantes da equipe a tela front-end do projeto.
 
-## ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) **Conclusão**
-Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendi a documentar um projeto, a aplicar metódo Balanced Scorecard , tive a oportunidade de criar uma plataforma Help-Desk, e dei início ao aprendizado da programação front-end.
+### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) **Aprendizado**
+Nesse Api pratiquei os conteúdos das matérias aplicadas para o 3° semestre de Banco de Dados, aprendi a documentar um projeto, a aplicar metódo Balanced Scorecard , tive a oportunidade de criar uma plataforma Help-Desk, e dei início ao aprendizado da programação front-end.
 
 
 
@@ -364,7 +370,7 @@ Nesse Api pratiquei os conteúos das matérias aplicadas para o 3° semestre de 
 ## **Projeto API -2022-1**
 **Proposta:** Desenvolver uma aplicação web que permitem aos Diretores e Gerentes de lojas que pretendem abrir franquias da loja e estudarem os perfis de seus clientes para com isso enviar campanhas de marketing para os mesmos.
 
-## **Vue-Force**
+### **Vue-Force**
 A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
@@ -375,7 +381,7 @@ A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Ba
  ### **Scrum Master**
 - Jefferson Tavares Araujo
 
-## **Team Dev :**
+### **Team Dev :**
 - Davi Ramos Andrade 
 
 - Helen Alevato 
@@ -386,12 +392,12 @@ A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Ba
 
 - Orlando Pereira
  
-## ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438072-cf3d6559-49b8-44a5-b337-d0c5cec25d0d.png)  **Descrição**
+### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438072-cf3d6559-49b8-44a5-b337-d0c5cec25d0d.png)  **Descrição**
 
 Segmentar para descobrir novas demandas de produtos por regioes, melhorando a visibilidade da base de clientes a partir da leitura de arquivos *.CSV. A aplicação poderá auxiliar na tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos.
 
 
-## ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
+### ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
 - Git
 
 - Gitlab
@@ -412,7 +418,7 @@ Segmentar para descobrir novas demandas de produtos por regioes, melhorando a vi
 - Programação PLSQL
 - ORACLE CLOUD
 
-## ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
+### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
 
 Nesse projeto atuei como **Product Owner** da equipe, fiquei responsável por liderar o processo de desenvolvimento do produto. 
 
@@ -431,10 +437,13 @@ Outro fator muito importante, foi entender as necessidades dos clientes, ajudand
 Foi essencial consegui extrair essas informações do cliente, pois isso garantiu com que equipe a desenvolve-se o produto conforme o planejado, deixando o cliente plenamente satisfeito.
 
 
-
-
-
-
+### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) **Aprendizado**
+Nesse Api aprendi na pratica a função de um P.O (Product Owner), dentro do projeto baseada na metodologia agil Scrum master.
+Aprendi a fazer o refinamento do backlog construindo, aprimorando e mantendo o backlog do time.
+Aprendi tambem a fazer o planejamento de sprints revisando e repriorizando as histórias do backlog como parte preparatória da reunião de planejamento do sprint.
+Identifiquei e entendi o que é valor para o cliente:  identificando e compreendendo os valores que o cliente desejava atingir
+A conclusão que tive foi:
+Que o P.O é responsavel por assegurar o sucesso do product backlog: indicando os itens necessários do product backlog, sendo a principal fonte de informações do projeto, assegurando que o product backlog esteja visível, com e transparente a todos, otimizando o valor do trabalho entregue pelo time e assegurando a qualidade e a entrega do produto final.
 
 
 
