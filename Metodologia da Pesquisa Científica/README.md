@@ -214,14 +214,14 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
 Desenvolvi junto com outro membro da equipe, o modelo conceitual, e o Modelo Logico de banco de dados, aplicando o que foi ensinado na materia de Arquiterura e Modelagem de Banco de Dados.
 Para que isso fosse possível aprendemos as funcionalodades da  ferramenta BRModelo, e aplicamos com a ajuda do professor.
 
-<details open>
+<details>
  <summary> <b>Modelo Conceitual<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203181251-1b985bc7-14aa-4ef8-ab2b-c6eaa82c321b.png)
 
  </details>
 
-<details open>
+<details>
  <summary> <b> Modelo Logico<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203181416-dae562ce-85f8-40d8-b3b7-d9d0c5c37aee.png)
@@ -232,7 +232,7 @@ Outra contribuição foi a criação da Wireframes da aplicação.
 Essa contribuição consegui me aprofundar na materia de linguagem de programação, baseando no conteúdo da matéria.
 
   
-<details open>
+<details>
  <summary> <b> Tela Inicial <b> </summary>
   
 ![image](https://user-images.githubusercontent.com/80370151/203187668-9fe7fd62-99aa-4bf6-880b-d25d1aafcedd.png)
