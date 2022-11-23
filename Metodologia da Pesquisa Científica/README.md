@@ -420,6 +420,8 @@ Segmentar para descobrir novas demandas de produtos por regioes, melhorando a vi
 
 ### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) **Minhas contribuições**
 
+![certificate](https://user-images.githubusercontent.com/80370151/203449843-2ca081e4-e580-40af-bdc4-c1a8bfeb078a.png) **Product Owner**
+
 Nesse projeto atuei como **Product Owner** da equipe, fiquei responsável por liderar o processo de desenvolvimento do produto. 
 
 Estive presente, certificando que a equipe estivesse bem alinhada com o projeto.
