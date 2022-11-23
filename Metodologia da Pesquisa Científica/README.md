@@ -424,7 +424,7 @@ Nesse projeto atuei como **Product Owner** da equipe, fiquei responsável por li
 
 Estive presente, certificando que a equipe estivesse bem alinhada com o projeto.
 
-Coma a visão estratégica no projeto, pude compartilhar minha percepção de quem era o público alvo, e quais as metas que deveríamos alcançar.
+Com a a visão estratégica no projeto, pude compartilhar minha percepção de quem era o público alvo, e quais as metas que deveríamos alcançar.
 
 Participei da criação o **Product backlog** junto com o master do Time, dessa maneira ajudei a listar as principais necessidades do cliente.
 
@@ -438,12 +438,15 @@ Foi essencial consegui extrair essas informações do cliente, pois isso garanti
 
 
 ### ![resumo (1)](https://user-images.githubusercontent.com/80370151/203201940-91128310-1388-4d4c-89ed-2953a1b6c4d2.png) **Aprendizado**
-Nesse Api aprendi na pratica a função de um P.O (Product Owner), dentro do projeto baseada na metodologia agil Scrum master.
+Nesse Api aprendi na pratica a função de um P.O (Product Owner), dentro do projeto baseada na metodologia agil Scrum.
+  
 Aprendi a fazer o refinamento do backlog construindo, aprimorando e mantendo o backlog do time.
-Aprendi tambem a fazer o planejamento de sprints revisando e repriorizando as histórias do backlog como parte preparatória da reunião de planejamento do sprint.
-Identifiquei e entendi o que é valor para o cliente:  identificando e compreendendo os valores que o cliente desejava atingir
-A conclusão que tive foi:
-Que o P.O é responsavel por assegurar o sucesso do product backlog: indicando os itens necessários do product backlog, sendo a principal fonte de informações do projeto, assegurando que o product backlog esteja visível, com e transparente a todos, otimizando o valor do trabalho entregue pelo time e assegurando a qualidade e a entrega do produto final.
+  
+Aprendi também a fazer o planejamento de sprints revisando e repriorizando as histórias do backlog, como parte preparatória da reunião de planejamento do sprint.
+  
+Identifiquei e entendi o que é valor para o cliente, identificando e compreendendo os valores que o cliente desejava atingir.
+  
+Minha conclusão, o P.O é responsavel por assegurar o sucesso do product backlog: indicando os itens necessários do product backlog, sendo a principal fonte de informações do projeto, assegurando que o product backlog esteja visível, com e transparente a todos, otimizando o valor do trabalho entregue pelo time e assegurando a qualidade e a entrega do produto final.
 
 
 
