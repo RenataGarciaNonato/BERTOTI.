@@ -31,7 +31,7 @@ tanto no âmbito escolar, como profissional.
 
 Otmizar e planejar a melhor Rota.
 
-#### **Vazeiros do Vale**
+#### Vazeiros do Vale
 Grupo Vanseiros do Vale foi constituido por 8 integrantes
 A equipe foi dividida baseando-se na metodologia Scrum, sendo composta por Master alunos do 6° semestre
 da diciplina Banco de dados,
@@ -48,7 +48,7 @@ e desnvolvedores alunos do 1° semestre de Banco de dados
 
 - Mateus Machado
 
-#### **Time de Desenvolvedores:** 
+#### **Team Dev** 
 
 - Gabriel Oliveira Sana
 
@@ -65,7 +65,7 @@ e desnvolvedores alunos do 1° semestre de Banco de dados
 </details>
 
 
-### ![software-development](https://user-images.githubusercontent.com/80370151/203208925-cfdcb341-59ce-47a8-bffe-1408e6ac93be.png) **Tecnologias Ultilizadas**
+### ![software-development](https://user-images.githubusercontent.com/80370151/203208925-cfdcb341-59ce-47a8-bffe-1408e6ac93be.png) Tenologias Ultilizadas
 
 * App Inventor
 
@@ -86,31 +86,36 @@ e desnvolvedores alunos do 1° semestre de Banco de dados
 
 
 Desenvolvi uma arquitetura de acesso a dados via API.
-Utilizei uma API para o cálculo da rota, essa API foi adquirida atravez do site OpenRouterService, a aplicação dessa API foi valida como aprendizagem,  para saber aplicar outras APIs em outros projetos, pois as APIs tem uma forma uniforme de acesso.
 
-<details open>
+Utilizei uma API para o cálculo da rota, essa API foi adquirida atravez do site OpenRouterService, a aplicação dessa API foi valida como aprendizagem,  para saber
+
+aplicar outras APIs em outros projetos, pois as APIs tem uma forma uniforme de acesso.
+
+<details>
+ <summary> <b>Aplicação da Api<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/171467676-9f92191c-0fd3-4bda-8f35-44ad6464f11b.png)
 
 
 <img width="955" alt="111" src="https://user-images.githubusercontent.com/80370151/171465565-d20039ed-b9cd-4f32-bfe9-e1485529f321.png">
-
+  
  </details>
 
-### ![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204804-97889575-8d3f-43d5-af0b-16cb889daebf.png) Outra contribuição foi a Modelagem de Dados:
-
+  
+![contribuicao (1)](https://user-images.githubusercontent.com/80370151/203204380-b0d3fdf4-753f-4a39-9f81-3672baca8e62.png) Outra contribuição foi a Modelagem de Dados
 
 Modelagem de Dados com diferente paradigmas de modelagem de banco de Dados.
-
-Normalmente usa-se banco de Dados relacionais SQL,
-mas como esse projeto foi diferente, um dos requisitos era a ultilização de um banco de dados NOSQL, o Banco de Dados  *Firebase* que é um  banco em Cloud, e em tempo real.
-
+  
+Normalmente usa-se banco de Dados relacionais SQL,mas como esse projeto foi diferente, um dos requisitos era a ultilização de um banco de dados NOSQL, o Banco de Dados  *Firebase* que é um  banco em Cloud, e em tempo real.  
+  
 E Como utilizei no projeto uma API para o cálculo da rota, e rota a fica mudando a todo instante, eu precisei usar um Banco em Cloud, 
 para disponibilidade em 100% do tempo, e também em tempo real, para que todas as vezes que a rota mudasse conseguisse atualizar em tempo real.
 
 
-<details open>
- 
+  
+<details>
+ <summary> <b>NoSql<b> </summary>
+  
 ![banco-firebase](https://user-images.githubusercontent.com/80370151/170394052-5153aff0-fa6e-430f-a026-9d2668979a53.png)
  
 </details>
@@ -167,13 +172,17 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
 
- ### **Product Owner**
+<details open>
+ 
+<summary> <b>Team</b> </summary>
+ 
+  **Product Owner**
   - Alexia Karine Silva dos Santos
   
- ### **Scrum Master**
+  **Scrum Master**
   - Jefferson Tavares de Araújo
   
- ### **Team Dev:**
+   **Team Dev**
 
   - Davi das Neves Machado
   
@@ -186,7 +195,8 @@ A equipe Tetris foi composta pelos seguintes estudantes do 2º semestre de Banco
   - Renata Garcia Nonato
   
   - Valdiney José do Nascimento
-  
+ 
+  </details>
 
 ### ![software-development](https://user-images.githubusercontent.com/80370151/203208738-65fe0a0a-f746-49fe-bbf4-84997792b6c1.png) **Tecnologias Ultilizadas** 
 - Git
@@ -257,13 +267,16 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
 
- ### **Product Owner**
+  <details open>
+<summary> <b>Team</b> </summary>
+   
+ **Product Owner**
  - Nágella Nasser
 
-### **Scrum Master**
+   **Scrum Master**
 - Davi das Neves Machado
 
-### **Team Dev :**
+ **Team Dev**
 - Alexia Karine Silva dos Santos 
 - Gabriel Oliveira Sana  
 - Guilherme Agostin 
@@ -271,7 +284,8 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 - Jefferson Tavares de Araújo 
 - Renata Garcia Nonato 
 - Valdiney José do Nascimento
-
+   
+  </details>
   
 ### ![software-development](https://user-images.githubusercontent.com/80370151/203209044-d693a310-04fc-4b4e-9b8e-de2e00d20c5c.png) **Tecnologias utilizadas**
 -Git
@@ -300,7 +314,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 
 ### *Contribui com toda a parte da documentação do projeto*
 
-<details open>
+<details>
  <summary> <b>User Stories<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203190869-24e65a4b-f1e9-407f-b9fc-1780773e473e.png)
@@ -319,7 +333,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 
  </details>
 
-<details open>
+<details>
  <summary> <b>Product Backlog<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203188944-b59460c2-aea7-46e8-ad00-40de2940f961.png)
@@ -330,7 +344,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 
   </details>
 
-<details open>
+<details>
  <summary> <b>Sprint planning<b> </summary>
   
 
@@ -339,7 +353,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 </details>
 
 
-<details open>
+<details>
  <summary> <b>Balanced Scorecard<b> </summary>
 
 ![image](https://user-images.githubusercontent.com/80370151/203188823-312209b6-8a5f-4247-9dc1-883197053035.png)
@@ -348,7 +362,7 @@ A equipe Tetris foi composta pelos seguintes estudantes do 3º semestre de Banco
 
 
   
-<details open>
+<details>
  <summary> <b>Help-Desk<b>  </summary>
   
 https://newaccount1637966996475.freshdesk.com/support/tickets/new
@@ -375,13 +389,17 @@ A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Ba
 
 ![image](https://user-images.githubusercontent.com/80370151/203197076-35b9aee2-20b1-4775-a5b3-afd16c17fd11.png)
 
- ### **Product Owner**
+ <details open>
+<summary> <b>Team</b> </summary>
+  
+ **Product Owner**
+  
 - Renata Garcia Nonato
  
- ### **Scrum Master**
+**Scrum Master**
 - Jefferson Tavares Araujo
 
-### **Team Dev :**
+ **Team Dev**
 - Davi Ramos Andrade 
 
 - Helen Alevato 
@@ -391,6 +409,8 @@ A equipe Vue-Force foi composta pelos seguintes estudantes do 4º semestre de Ba
 - Mateus Camargo Lima 
 
 - Orlando Pereira
+  
+  </details>
  
 ### ![descricao-do-trabalho](https://user-images.githubusercontent.com/80370151/203438072-cf3d6559-49b8-44a5-b337-d0c5cec25d0d.png)  **Descrição**
 
